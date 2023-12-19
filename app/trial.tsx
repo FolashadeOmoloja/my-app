@@ -1,9 +1,9 @@
-
-const newComponent = () =>{
+'use client'
+const NewComponent = () =>{
     return(
 <section>
     <div>
-
+       <p>this is a client side component</p>
     </div>
     <div>
         <p>Hello world</p>
@@ -11,4 +11,4 @@ const newComponent = () =>{
 </section>
     )
 }
-export default newComponent
+export default NewComponent
