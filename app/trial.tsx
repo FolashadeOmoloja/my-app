@@ -1,6 +1,8 @@
 'use client'
 import { useState, useEffect } from "react"
+
 const NewComponent = () =>{
+    const [newLook, oldLook] = useState('')
     return(
 <section>
     <div>
