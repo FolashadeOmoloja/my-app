@@ -1,3 +1,6 @@
+
+const newComponent = () =>{
+    return(
 <section>
     <div>
 
@@ -6,3 +9,6 @@
         <p>Hello world</p>
     </div>
 </section>
+    )
+}
+export default newComponent
