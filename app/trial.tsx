@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react"
 
 const NewComponent = () =>{
-    const [newLook, oldLook] = useState('')
+    const [newLook, oldLook] = useState('hiiii')
     return(
 <section>
     <div>
