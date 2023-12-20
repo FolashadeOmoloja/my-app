@@ -7,6 +7,8 @@ const NewComponent = () =>{
 <section>
     <div>
        <p>this is a client side component</p>
+     <p>placeholder</p>
+     <p>hiii</p>
     </div>
     <div>
         <p>Hello world</p>
